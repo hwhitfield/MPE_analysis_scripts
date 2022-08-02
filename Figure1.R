@@ -10,7 +10,6 @@
 library(ggRNA)
 
 ##### ----- Get directories
-#wd="/stornext/Home/data/allstaff/w/whitfield.h/PhD_Project_MPE/MPE_paper_analysis/"
 
 setwd("./MPE_paper_analysis/")
 data_dir <- paste0(getwd(),"/data/")
